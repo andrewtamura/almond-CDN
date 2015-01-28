@@ -1,0 +1,24 @@
+{
+  "name": "almond-CDN",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Tamura <andrewtamura@gmail.com>"
+  ],
+  "description": "testing Almond + r.js optimiser for CDN loaded dependacies",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "almond": "~0.3.0"
+  }
+}
